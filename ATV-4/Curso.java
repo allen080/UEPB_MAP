@@ -1,5 +1,5 @@
 public class Curso implements Cloneable {
-	private String nome_curso,disc_especifica,disc_comum_1,disc_comum_2,disc_comum_3;
+    private String nome_curso,disc_especifica,disc_comum_1,disc_comum_2,disc_comum_3;
     private int carga_horaria;
 
     // Construtor
